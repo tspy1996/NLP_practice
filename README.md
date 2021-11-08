@@ -1,6 +1,8 @@
 # 資料集、語料庫、字典
 ###### tags: `NLP`
 
+### 台達繁體中文閱讀理解資料集
+https://github.com/DRCKnowledgeTeam/DRCD.git
 
 ### 公開的情緒訓練資料、jieba字典
 https://github.com/UDICatNCHU/UdicOpenData
